@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I’m Hanyu Yan!
 
+- 🎓 Student at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University.
 <!--
 **Fireond/Fireond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
